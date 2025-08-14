@@ -1,0 +1,1 @@
+D:\Projects\cimb-niaga-api-migration-rust\training\farhan-rust-training\exercise\ex_1\target\debug\ex_1.exe: D:\Projects\cimb-niaga-api-migration-rust\training\farhan-rust-training\exercise\ex_1\src\main.rs
